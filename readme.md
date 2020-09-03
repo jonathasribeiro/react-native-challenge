@@ -53,6 +53,9 @@ $ git clone https://github.com/jonathasribeiro/react-native-challenge
 
 # Acesse à pasta do projeto:
 cd react-native-challenge
+
+# Instale as dependências com o seguinte comando:
+npm install ou yarn
 ```
 
 ---
